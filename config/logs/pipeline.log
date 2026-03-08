@@ -1,0 +1,353 @@
+2026-03-08 13:03:12,490 - src.monitor - INFO - \u2705 System Healthy | Cities: 316 | Total Records: 316 | Last Update: 2026-03-08 11:34:32
+2026-03-08 13:03:13,659 - src.validators - INFO - Successfully loaded data for New Delhi
+2026-03-08 13:03:13,668 - src.etl_pipeline - INFO - Successfully loaded data for New Delhi
+2026-03-08 13:03:13,791 - src.validators - INFO - Successfully loaded data for Kolkata
+2026-03-08 13:03:13,798 - src.etl_pipeline - INFO - Successfully loaded data for Kolkata
+2026-03-08 13:03:13,921 - src.validators - INFO - Successfully loaded data for Mumbai
+2026-03-08 13:03:13,929 - src.etl_pipeline - INFO - Successfully loaded data for Mumbai
+2026-03-08 13:03:14,068 - src.validators - INFO - Successfully loaded data for Bengaluru
+2026-03-08 13:03:14,076 - src.etl_pipeline - INFO - Successfully loaded data for Bengaluru
+2026-03-08 13:03:14,213 - src.validators - INFO - Successfully loaded data for Chennai
+2026-03-08 13:03:14,220 - src.etl_pipeline - INFO - Successfully loaded data for Chennai
+2026-03-08 13:03:14,372 - src.validators - INFO - Successfully loaded data for Hyderabad
+2026-03-08 13:03:14,379 - src.etl_pipeline - INFO - Successfully loaded data for Hyderabad
+2026-03-08 13:03:14,531 - src.validators - INFO - Successfully loaded data for Ahmedabad
+2026-03-08 13:03:14,540 - src.etl_pipeline - INFO - Successfully loaded data for Ahmedabad
+2026-03-08 13:03:14,700 - src.validators - INFO - Successfully loaded data for Surat
+2026-03-08 13:03:14,709 - src.etl_pipeline - INFO - Successfully loaded data for Surat
+2026-03-08 13:03:14,854 - src.validators - INFO - Successfully loaded data for Pune
+2026-03-08 13:03:14,863 - src.etl_pipeline - INFO - Successfully loaded data for Pune
+2026-03-08 13:03:14,989 - src.validators - INFO - Successfully loaded data for Jaipur
+2026-03-08 13:03:14,997 - src.etl_pipeline - INFO - Successfully loaded data for Jaipur
+2026-03-08 13:03:15,124 - src.validators - INFO - Successfully loaded data for Lucknow
+2026-03-08 13:03:15,134 - src.etl_pipeline - INFO - Successfully loaded data for Lucknow
+2026-03-08 13:03:15,257 - src.validators - INFO - Successfully loaded data for Kanpur
+2026-03-08 13:03:15,265 - src.etl_pipeline - INFO - Successfully loaded data for Kanpur
+2026-03-08 13:03:15,398 - src.validators - INFO - Successfully loaded data for Nagpur
+2026-03-08 13:03:15,407 - src.etl_pipeline - INFO - Successfully loaded data for Nagpur
+2026-03-08 13:03:15,527 - src.validators - INFO - Successfully loaded data for Indore
+2026-03-08 13:03:15,536 - src.etl_pipeline - INFO - Successfully loaded data for Indore
+2026-03-08 13:03:15,665 - src.validators - INFO - Successfully loaded data for Thane
+2026-03-08 13:03:15,672 - src.etl_pipeline - INFO - Successfully loaded data for Thane
+2026-03-08 13:33:55,480 - src.monitor - INFO - \u2705 System Healthy | Cities: 346 | Total Records: 346 | Last Update: 2026-03-08 13:03:15
+2026-03-08 13:33:56,705 - src.validators - INFO - Successfully loaded data for New Delhi
+2026-03-08 13:33:56,732 - src.etl_pipeline - INFO - Successfully loaded data for New Delhi
+2026-03-08 13:33:56,892 - src.validators - INFO - Successfully loaded data for Kolkata
+2026-03-08 13:33:56,918 - src.etl_pipeline - INFO - Successfully loaded data for Kolkata
+2026-03-08 13:33:57,079 - src.validators - INFO - Successfully loaded data for Mumbai
+2026-03-08 13:33:57,099 - src.etl_pipeline - INFO - Successfully loaded data for Mumbai
+2026-03-08 13:33:57,269 - src.validators - INFO - Successfully loaded data for Bengaluru
+2026-03-08 13:33:57,288 - src.etl_pipeline - INFO - Successfully loaded data for Bengaluru
+2026-03-08 13:33:57,450 - src.validators - INFO - Successfully loaded data for Chennai
+2026-03-08 13:33:57,471 - src.etl_pipeline - INFO - Successfully loaded data for Chennai
+2026-03-08 13:33:57,621 - src.validators - INFO - Successfully loaded data for Hyderabad
+2026-03-08 13:33:57,639 - src.etl_pipeline - INFO - Successfully loaded data for Hyderabad
+2026-03-08 13:33:57,788 - src.validators - INFO - Successfully loaded data for Ahmedabad
+2026-03-08 13:33:57,805 - src.etl_pipeline - INFO - Successfully loaded data for Ahmedabad
+2026-03-08 13:33:57,981 - src.validators - INFO - Successfully loaded data for Surat
+2026-03-08 13:33:58,003 - src.etl_pipeline - INFO - Successfully loaded data for Surat
+2026-03-08 13:33:58,158 - src.validators - INFO - Successfully loaded data for Pune
+2026-03-08 13:33:58,176 - src.etl_pipeline - INFO - Successfully loaded data for Pune
+2026-03-08 13:33:58,342 - src.validators - INFO - Successfully loaded data for Jaipur
+2026-03-08 13:33:58,362 - src.etl_pipeline - INFO - Successfully loaded data for Jaipur
+2026-03-08 13:33:58,523 - src.validators - INFO - Successfully loaded data for Lucknow
+2026-03-08 13:33:58,545 - src.etl_pipeline - INFO - Successfully loaded data for Lucknow
+2026-03-08 13:33:58,699 - src.validators - INFO - Successfully loaded data for Kanpur
+2026-03-08 13:33:58,716 - src.etl_pipeline - INFO - Successfully loaded data for Kanpur
+2026-03-08 13:33:58,910 - src.validators - INFO - Successfully loaded data for Nagpur
+2026-03-08 13:33:58,929 - src.etl_pipeline - INFO - Successfully loaded data for Nagpur
+2026-03-08 13:33:59,094 - src.validators - INFO - Successfully loaded data for Indore
+2026-03-08 13:33:59,112 - src.etl_pipeline - INFO - Successfully loaded data for Indore
+2026-03-08 13:33:59,304 - src.validators - INFO - Successfully loaded data for Thane
+2026-03-08 13:33:59,321 - src.etl_pipeline - INFO - Successfully loaded data for Thane
+2026-03-08 13:47:37,255 - src.monitor - INFO - \u2705 System Healthy | Cities: 376 | Total Records: 376 | Last Update: 2026-03-08 13:33:59
+2026-03-08 13:47:38,456 - src.validators - INFO - Successfully loaded data for New Delhi
+2026-03-08 13:47:38,474 - src.etl_pipeline - INFO - Successfully loaded data for New Delhi
+2026-03-08 13:47:38,647 - src.validators - INFO - Successfully loaded data for Kolkata
+2026-03-08 13:47:38,670 - src.etl_pipeline - INFO - Successfully loaded data for Kolkata
+2026-03-08 13:47:38,835 - src.validators - INFO - Successfully loaded data for Mumbai
+2026-03-08 13:47:38,864 - src.etl_pipeline - INFO - Successfully loaded data for Mumbai
+2026-03-08 13:47:39,027 - src.validators - INFO - Successfully loaded data for Bengaluru
+2026-03-08 13:47:39,047 - src.etl_pipeline - INFO - Successfully loaded data for Bengaluru
+2026-03-08 13:47:39,190 - src.validators - INFO - Successfully loaded data for Chennai
+2026-03-08 13:47:39,214 - src.etl_pipeline - INFO - Successfully loaded data for Chennai
+2026-03-08 13:47:39,372 - src.validators - INFO - Successfully loaded data for Hyderabad
+2026-03-08 13:47:39,392 - src.etl_pipeline - INFO - Successfully loaded data for Hyderabad
+2026-03-08 13:47:39,541 - src.validators - INFO - Successfully loaded data for Ahmedabad
+2026-03-08 13:47:39,553 - src.etl_pipeline - INFO - Successfully loaded data for Ahmedabad
+2026-03-08 13:47:39,724 - src.validators - INFO - Successfully loaded data for Surat
+2026-03-08 13:47:39,745 - src.etl_pipeline - INFO - Successfully loaded data for Surat
+2026-03-08 13:47:39,897 - src.validators - INFO - Successfully loaded data for Pune
+2026-03-08 13:47:39,918 - src.etl_pipeline - INFO - Successfully loaded data for Pune
+2026-03-08 13:47:40,066 - src.validators - INFO - Successfully loaded data for Jaipur
+2026-03-08 13:47:40,087 - src.etl_pipeline - INFO - Successfully loaded data for Jaipur
+2026-03-08 13:47:40,267 - src.validators - INFO - Successfully loaded data for Lucknow
+2026-03-08 13:47:40,290 - src.etl_pipeline - INFO - Successfully loaded data for Lucknow
+2026-03-08 13:47:40,470 - src.validators - INFO - Successfully loaded data for Kanpur
+2026-03-08 13:47:40,490 - src.etl_pipeline - INFO - Successfully loaded data for Kanpur
+2026-03-08 13:47:40,648 - src.validators - INFO - Successfully loaded data for Nagpur
+2026-03-08 13:47:40,666 - src.etl_pipeline - INFO - Successfully loaded data for Nagpur
+2026-03-08 13:47:40,813 - src.validators - INFO - Successfully loaded data for Indore
+2026-03-08 13:47:40,834 - src.etl_pipeline - INFO - Successfully loaded data for Indore
+2026-03-08 13:47:41,014 - src.validators - INFO - Successfully loaded data for Thane
+2026-03-08 13:47:41,035 - src.etl_pipeline - INFO - Successfully loaded data for Thane
+2026-03-08 14:53:35,444 - src.monitor - INFO - \u2705 System Healthy | Cities: 406 | Total Records: 406 | Last Update: 2026-03-08 13:47:40
+2026-03-08 14:53:36,619 - src.validators - INFO - Successfully loaded data for New Delhi
+2026-03-08 14:53:36,632 - src.etl_pipeline - INFO - Successfully loaded data for New Delhi
+2026-03-08 14:53:36,798 - src.validators - INFO - Successfully loaded data for Kolkata
+2026-03-08 14:53:36,811 - src.etl_pipeline - INFO - Successfully loaded data for Kolkata
+2026-03-08 14:53:36,930 - src.validators - INFO - Successfully loaded data for Mumbai
+2026-03-08 14:53:36,942 - src.etl_pipeline - INFO - Successfully loaded data for Mumbai
+2026-03-08 14:53:37,103 - src.validators - INFO - Successfully loaded data for Bengaluru
+2026-03-08 14:53:37,117 - src.etl_pipeline - INFO - Successfully loaded data for Bengaluru
+2026-03-08 14:53:37,267 - src.validators - INFO - Successfully loaded data for Chennai
+2026-03-08 14:53:37,286 - src.etl_pipeline - INFO - Successfully loaded data for Chennai
+2026-03-08 14:53:37,453 - src.validators - INFO - Successfully loaded data for Hyderabad
+2026-03-08 14:53:37,467 - src.etl_pipeline - INFO - Successfully loaded data for Hyderabad
+2026-03-08 14:53:37,627 - src.validators - INFO - Successfully loaded data for Ahmedabad
+2026-03-08 14:53:37,632 - src.etl_pipeline - INFO - Successfully loaded data for Ahmedabad
+2026-03-08 14:53:37,796 - src.validators - INFO - Successfully loaded data for Surat
+2026-03-08 14:53:37,813 - src.etl_pipeline - INFO - Successfully loaded data for Surat
+2026-03-08 14:53:37,950 - src.validators - INFO - Successfully loaded data for Pune
+2026-03-08 14:53:37,959 - src.etl_pipeline - INFO - Successfully loaded data for Pune
+2026-03-08 14:53:38,107 - src.validators - INFO - Successfully loaded data for Jaipur
+2026-03-08 14:53:38,130 - src.etl_pipeline - INFO - Successfully loaded data for Jaipur
+2026-03-08 14:53:38,289 - src.validators - INFO - Successfully loaded data for Lucknow
+2026-03-08 14:53:38,302 - src.etl_pipeline - INFO - Successfully loaded data for Lucknow
+2026-03-08 14:53:38,472 - src.validators - INFO - Successfully loaded data for Kanpur
+2026-03-08 14:53:38,488 - src.etl_pipeline - INFO - Successfully loaded data for Kanpur
+2026-03-08 14:53:38,655 - src.validators - INFO - Successfully loaded data for Nagpur
+2026-03-08 14:53:38,669 - src.etl_pipeline - INFO - Successfully loaded data for Nagpur
+2026-03-08 14:53:38,815 - src.validators - INFO - Successfully loaded data for Indore
+2026-03-08 14:53:38,837 - src.etl_pipeline - INFO - Successfully loaded data for Indore
+2026-03-08 14:53:39,000 - src.validators - INFO - Successfully loaded data for Thane
+2026-03-08 14:53:39,013 - src.etl_pipeline - INFO - Successfully loaded data for Thane
+2026-03-08 14:56:02,763 - src.monitor - INFO - \u2705 System Healthy | Cities: 0 | Total Records: 0 | Last Update: No Data
+2026-03-08 14:56:03,953 - src.validators - INFO - Successfully loaded data for New Delhi
+2026-03-08 14:56:03,967 - src.etl_pipeline - INFO - Successfully loaded data for New Delhi
+2026-03-08 14:56:04,102 - src.validators - INFO - Successfully loaded data for Kolkata
+2026-03-08 14:56:04,118 - src.etl_pipeline - INFO - Successfully loaded data for Kolkata
+2026-03-08 14:56:04,277 - src.validators - INFO - Successfully loaded data for Mumbai
+2026-03-08 14:56:04,287 - src.etl_pipeline - INFO - Successfully loaded data for Mumbai
+2026-03-08 14:56:04,433 - src.validators - INFO - Successfully loaded data for Bengaluru
+2026-03-08 14:56:04,442 - src.etl_pipeline - INFO - Successfully loaded data for Bengaluru
+2026-03-08 14:56:04,599 - src.validators - INFO - Successfully loaded data for Chennai
+2026-03-08 14:56:04,615 - src.etl_pipeline - INFO - Successfully loaded data for Chennai
+2026-03-08 14:56:04,760 - src.validators - INFO - Successfully loaded data for Hyderabad
+2026-03-08 14:56:04,770 - src.etl_pipeline - INFO - Successfully loaded data for Hyderabad
+2026-03-08 14:56:04,938 - src.validators - INFO - Successfully loaded data for Ahmedabad
+2026-03-08 14:56:04,938 - src.etl_pipeline - INFO - Successfully loaded data for Ahmedabad
+2026-03-08 14:56:05,109 - src.validators - INFO - Successfully loaded data for Surat
+2026-03-08 14:56:05,125 - src.etl_pipeline - INFO - Successfully loaded data for Surat
+2026-03-08 14:56:05,277 - src.validators - INFO - Successfully loaded data for Pune
+2026-03-08 14:56:05,290 - src.etl_pipeline - INFO - Successfully loaded data for Pune
+2026-03-08 14:56:05,414 - src.validators - INFO - Successfully loaded data for Jaipur
+2026-03-08 14:56:05,427 - src.etl_pipeline - INFO - Successfully loaded data for Jaipur
+2026-03-08 14:56:05,541 - src.validators - INFO - Successfully loaded data for Lucknow
+2026-03-08 14:56:05,559 - src.etl_pipeline - INFO - Successfully loaded data for Lucknow
+2026-03-08 14:56:05,698 - src.validators - INFO - Successfully loaded data for Kanpur
+2026-03-08 14:56:05,709 - src.etl_pipeline - INFO - Successfully loaded data for Kanpur
+2026-03-08 14:56:05,869 - src.validators - INFO - Successfully loaded data for Nagpur
+2026-03-08 14:56:05,883 - src.etl_pipeline - INFO - Successfully loaded data for Nagpur
+2026-03-08 14:56:06,008 - src.validators - INFO - Successfully loaded data for Indore
+2026-03-08 14:56:06,028 - src.etl_pipeline - INFO - Successfully loaded data for Indore
+2026-03-08 14:56:06,194 - src.validators - INFO - Successfully loaded data for Thane
+2026-03-08 14:56:06,207 - src.etl_pipeline - INFO - Successfully loaded data for Thane
+2026-03-08 15:07:55,044 - src.monitor - INFO - \u2705 System Healthy | Cities: 0 | Total Records: 0 | Last Update: No Data
+2026-03-08 15:07:55,044 - src.etl_pipeline - INFO - --- ETL Pipeline Started ---
+2026-03-08 15:07:55,204 - src.validators - INFO - Successfully loaded data for New Delhi
+2026-03-08 15:07:55,204 - src.etl_pipeline - ERROR - Error in get_or_create_city for New Delhi: near "%": syntax error
+2026-03-08 15:07:55,361 - src.validators - INFO - Successfully loaded data for Kolkata
+2026-03-08 15:07:55,361 - src.etl_pipeline - ERROR - Error in get_or_create_city for Kolkata: near "%": syntax error
+2026-03-08 15:07:55,523 - src.validators - INFO - Successfully loaded data for Mumbai
+2026-03-08 15:07:55,523 - src.etl_pipeline - ERROR - Error in get_or_create_city for Mumbai: near "%": syntax error
+2026-03-08 15:07:55,690 - src.validators - INFO - Successfully loaded data for Bengaluru
+2026-03-08 15:07:55,690 - src.etl_pipeline - ERROR - Error in get_or_create_city for Bengaluru: near "%": syntax error
+2026-03-08 15:07:55,850 - src.validators - INFO - Successfully loaded data for Chennai
+2026-03-08 15:07:55,850 - src.etl_pipeline - ERROR - Error in get_or_create_city for Chennai: near "%": syntax error
+2026-03-08 15:07:55,977 - src.validators - INFO - Successfully loaded data for Hyderabad
+2026-03-08 15:07:55,977 - src.etl_pipeline - ERROR - Error in get_or_create_city for Hyderabad: near "%": syntax error
+2026-03-08 15:07:56,118 - src.validators - INFO - Successfully loaded data for Ahmedabad
+2026-03-08 15:07:56,118 - src.etl_pipeline - ERROR - Error in get_or_create_city for Ahmedabad: near "%": syntax error
+2026-03-08 15:07:56,279 - src.validators - INFO - Successfully loaded data for Surat
+2026-03-08 15:07:56,279 - src.etl_pipeline - ERROR - Error in get_or_create_city for Surat: near "%": syntax error
+2026-03-08 15:07:56,439 - src.validators - INFO - Successfully loaded data for Pune
+2026-03-08 15:07:56,439 - src.etl_pipeline - ERROR - Error in get_or_create_city for Pune: near "%": syntax error
+2026-03-08 15:07:56,568 - src.validators - INFO - Successfully loaded data for Jaipur
+2026-03-08 15:07:56,568 - src.etl_pipeline - ERROR - Error in get_or_create_city for Jaipur: near "%": syntax error
+2026-03-08 15:07:56,722 - src.validators - INFO - Successfully loaded data for Lucknow
+2026-03-08 15:07:56,722 - src.etl_pipeline - ERROR - Error in get_or_create_city for Lucknow: near "%": syntax error
+2026-03-08 15:07:56,894 - src.validators - INFO - Successfully loaded data for Kanpur
+2026-03-08 15:07:56,894 - src.etl_pipeline - ERROR - Error in get_or_create_city for Kanpur: near "%": syntax error
+2026-03-08 15:07:57,038 - src.validators - INFO - Successfully loaded data for Nagpur
+2026-03-08 15:07:57,064 - src.etl_pipeline - ERROR - Error in get_or_create_city for Nagpur: near "%": syntax error
+2026-03-08 15:07:57,197 - src.validators - INFO - Successfully loaded data for Indore
+2026-03-08 15:07:57,197 - src.etl_pipeline - ERROR - Error in get_or_create_city for Indore: near "%": syntax error
+2026-03-08 15:07:57,365 - src.validators - INFO - Successfully loaded data for Thane
+2026-03-08 15:07:57,367 - src.etl_pipeline - ERROR - Error in get_or_create_city for Thane: near "%": syntax error
+2026-03-08 15:07:57,367 - src.etl_pipeline - INFO - --- ETL Pipeline Completed Successfully ---
+2026-03-08 15:09:57,741 - __main__ - INFO - System manually stopped by user.
+2026-03-08 15:11:51,245 - src.monitor - INFO - \u2705 System Healthy | Cities: 15 | Total Records: 15 | Last Update: 2026-03-08 15:07:57
+2026-03-08 15:11:51,246 - src.etl_pipeline - INFO - --- ETL Pipeline Started ---
+2026-03-08 15:11:51,416 - src.validators - INFO - Successfully loaded data for New Delhi
+2026-03-08 15:11:51,418 - src.etl_pipeline - ERROR - Error in get_or_create_city for New Delhi: near "%": syntax error
+2026-03-08 15:11:51,568 - src.validators - INFO - Successfully loaded data for Kolkata
+2026-03-08 15:11:51,568 - src.etl_pipeline - ERROR - Error in get_or_create_city for Kolkata: near "%": syntax error
+2026-03-08 15:11:51,725 - src.validators - INFO - Successfully loaded data for Mumbai
+2026-03-08 15:11:51,725 - src.etl_pipeline - ERROR - Error in get_or_create_city for Mumbai: near "%": syntax error
+2026-03-08 15:11:51,872 - src.validators - INFO - Successfully loaded data for Bengaluru
+2026-03-08 15:11:51,872 - src.etl_pipeline - ERROR - Error in get_or_create_city for Bengaluru: near "%": syntax error
+2026-03-08 15:11:52,028 - src.validators - INFO - Successfully loaded data for Chennai
+2026-03-08 15:11:52,028 - src.etl_pipeline - ERROR - Error in get_or_create_city for Chennai: near "%": syntax error
+2026-03-08 15:11:52,207 - src.validators - INFO - Successfully loaded data for Hyderabad
+2026-03-08 15:11:52,207 - src.etl_pipeline - ERROR - Error in get_or_create_city for Hyderabad: near "%": syntax error
+2026-03-08 15:11:52,359 - src.validators - INFO - Successfully loaded data for Ahmedabad
+2026-03-08 15:11:52,360 - src.etl_pipeline - ERROR - Error in get_or_create_city for Ahmedabad: near "%": syntax error
+2026-03-08 15:11:52,500 - src.validators - INFO - Successfully loaded data for Surat
+2026-03-08 15:11:52,503 - src.etl_pipeline - ERROR - Error in get_or_create_city for Surat: near "%": syntax error
+2026-03-08 15:11:52,650 - src.validators - INFO - Successfully loaded data for Pune
+2026-03-08 15:11:52,650 - src.etl_pipeline - ERROR - Error in get_or_create_city for Pune: near "%": syntax error
+2026-03-08 15:11:52,799 - src.validators - INFO - Successfully loaded data for Jaipur
+2026-03-08 15:11:52,799 - src.etl_pipeline - ERROR - Error in get_or_create_city for Jaipur: near "%": syntax error
+2026-03-08 15:11:52,932 - src.validators - INFO - Successfully loaded data for Lucknow
+2026-03-08 15:11:52,932 - src.etl_pipeline - ERROR - Error in get_or_create_city for Lucknow: near "%": syntax error
+2026-03-08 15:11:53,090 - src.validators - INFO - Successfully loaded data for Kanpur
+2026-03-08 15:11:53,090 - src.etl_pipeline - ERROR - Error in get_or_create_city for Kanpur: near "%": syntax error
+2026-03-08 15:11:53,240 - src.validators - INFO - Successfully loaded data for Nagpur
+2026-03-08 15:11:53,240 - src.etl_pipeline - ERROR - Error in get_or_create_city for Nagpur: near "%": syntax error
+2026-03-08 15:11:53,417 - src.validators - INFO - Successfully loaded data for Indore
+2026-03-08 15:11:53,417 - src.etl_pipeline - ERROR - Error in get_or_create_city for Indore: near "%": syntax error
+2026-03-08 15:11:53,580 - src.validators - INFO - Successfully loaded data for Thane
+2026-03-08 15:11:53,580 - src.etl_pipeline - ERROR - Error in get_or_create_city for Thane: near "%": syntax error
+2026-03-08 15:11:53,580 - src.etl_pipeline - INFO - --- ETL Pipeline Completed Successfully ---
+2026-03-08 15:57:49,080 - src.monitor - INFO - \u2705 System Healthy | Cities: 30 | Total Records: 30 | Last Update: 2026-03-08 15:11:53
+2026-03-08 15:57:49,082 - src.etl_pipeline - INFO - --- ETL Pipeline Started ---
+2026-03-08 15:57:49,239 - src.validators - INFO - Successfully loaded data for New Delhi
+2026-03-08 15:57:49,239 - src.etl_pipeline - ERROR - Error in get_or_create_city for New Delhi: near "%": syntax error
+2026-03-08 15:57:49,365 - src.validators - INFO - Successfully loaded data for Kolkata
+2026-03-08 15:57:49,366 - src.etl_pipeline - ERROR - Error in get_or_create_city for Kolkata: near "%": syntax error
+2026-03-08 15:57:49,534 - src.validators - INFO - Successfully loaded data for Mumbai
+2026-03-08 15:57:49,534 - src.etl_pipeline - ERROR - Error in get_or_create_city for Mumbai: near "%": syntax error
+2026-03-08 15:57:49,697 - src.validators - INFO - Successfully loaded data for Bengaluru
+2026-03-08 15:57:49,698 - src.etl_pipeline - ERROR - Error in get_or_create_city for Bengaluru: near "%": syntax error
+2026-03-08 15:57:49,836 - src.validators - INFO - Successfully loaded data for Chennai
+2026-03-08 15:57:49,837 - src.etl_pipeline - ERROR - Error in get_or_create_city for Chennai: near "%": syntax error
+2026-03-08 15:57:50,000 - src.validators - INFO - Successfully loaded data for Hyderabad
+2026-03-08 15:57:50,001 - src.etl_pipeline - ERROR - Error in get_or_create_city for Hyderabad: near "%": syntax error
+2026-03-08 15:57:50,132 - src.validators - INFO - Successfully loaded data for Ahmedabad
+2026-03-08 15:57:50,132 - src.etl_pipeline - ERROR - Error in get_or_create_city for Ahmedabad: near "%": syntax error
+2026-03-08 15:57:50,277 - src.validators - INFO - Successfully loaded data for Surat
+2026-03-08 15:57:50,277 - src.etl_pipeline - ERROR - Error in get_or_create_city for Surat: near "%": syntax error
+2026-03-08 15:57:50,413 - src.validators - INFO - Successfully loaded data for Pune
+2026-03-08 15:57:50,413 - src.etl_pipeline - ERROR - Error in get_or_create_city for Pune: near "%": syntax error
+2026-03-08 15:57:50,572 - src.validators - INFO - Successfully loaded data for Jaipur
+2026-03-08 15:57:50,572 - src.etl_pipeline - ERROR - Error in get_or_create_city for Jaipur: near "%": syntax error
+2026-03-08 15:57:50,701 - src.validators - INFO - Successfully loaded data for Lucknow
+2026-03-08 15:57:50,701 - src.etl_pipeline - ERROR - Error in get_or_create_city for Lucknow: near "%": syntax error
+2026-03-08 15:57:50,835 - src.validators - INFO - Successfully loaded data for Kanpur
+2026-03-08 15:57:50,835 - src.etl_pipeline - ERROR - Error in get_or_create_city for Kanpur: near "%": syntax error
+2026-03-08 15:57:50,973 - src.validators - INFO - Successfully loaded data for Nagpur
+2026-03-08 15:57:50,974 - src.etl_pipeline - ERROR - Error in get_or_create_city for Nagpur: near "%": syntax error
+2026-03-08 15:57:51,125 - src.validators - INFO - Successfully loaded data for Indore
+2026-03-08 15:57:51,126 - src.etl_pipeline - ERROR - Error in get_or_create_city for Indore: near "%": syntax error
+2026-03-08 15:57:51,309 - src.validators - INFO - Successfully loaded data for Thane
+2026-03-08 15:57:51,309 - src.etl_pipeline - ERROR - Error in get_or_create_city for Thane: near "%": syntax error
+2026-03-08 15:57:51,309 - src.etl_pipeline - INFO - --- ETL Pipeline Completed Successfully ---
+2026-03-08 16:00:13,987 - src.monitor - INFO - \u2705 System Healthy | Cities: 45 | Total Records: 45 | Last Update: 2026-03-08 15:57:51
+2026-03-08 16:00:13,988 - src.etl_pipeline - INFO - --- ETL Pipeline Started ---
+2026-03-08 16:00:14,161 - src.validators - INFO - Successfully loaded data for New Delhi
+2026-03-08 16:00:14,161 - src.etl_pipeline - ERROR - Error in get_or_create_city for New Delhi: near "%": syntax error
+2026-03-08 16:00:14,294 - src.validators - INFO - Successfully loaded data for Kolkata
+2026-03-08 16:00:14,295 - src.etl_pipeline - ERROR - Error in get_or_create_city for Kolkata: near "%": syntax error
+2026-03-08 16:00:14,449 - src.validators - INFO - Successfully loaded data for Mumbai
+2026-03-08 16:00:14,449 - src.etl_pipeline - ERROR - Error in get_or_create_city for Mumbai: near "%": syntax error
+2026-03-08 16:00:14,590 - src.validators - INFO - Successfully loaded data for Bengaluru
+2026-03-08 16:00:14,590 - src.etl_pipeline - ERROR - Error in get_or_create_city for Bengaluru: near "%": syntax error
+2026-03-08 16:00:14,745 - src.validators - INFO - Successfully loaded data for Chennai
+2026-03-08 16:00:14,745 - src.etl_pipeline - ERROR - Error in get_or_create_city for Chennai: near "%": syntax error
+2026-03-08 16:00:14,890 - src.validators - INFO - Successfully loaded data for Hyderabad
+2026-03-08 16:00:14,891 - src.etl_pipeline - ERROR - Error in get_or_create_city for Hyderabad: near "%": syntax error
+2026-03-08 16:00:15,029 - src.validators - INFO - Successfully loaded data for Ahmedabad
+2026-03-08 16:00:15,029 - src.etl_pipeline - ERROR - Error in get_or_create_city for Ahmedabad: near "%": syntax error
+2026-03-08 16:00:15,204 - src.validators - INFO - Successfully loaded data for Surat
+2026-03-08 16:00:15,204 - src.etl_pipeline - ERROR - Error in get_or_create_city for Surat: near "%": syntax error
+2026-03-08 16:00:15,349 - src.validators - INFO - Successfully loaded data for Pune
+2026-03-08 16:00:15,349 - src.etl_pipeline - ERROR - Error in get_or_create_city for Pune: near "%": syntax error
+2026-03-08 16:00:15,500 - src.validators - INFO - Successfully loaded data for Jaipur
+2026-03-08 16:00:15,500 - src.etl_pipeline - ERROR - Error in get_or_create_city for Jaipur: near "%": syntax error
+2026-03-08 16:00:15,645 - src.validators - INFO - Successfully loaded data for Lucknow
+2026-03-08 16:00:15,645 - src.etl_pipeline - ERROR - Error in get_or_create_city for Lucknow: near "%": syntax error
+2026-03-08 16:00:15,799 - src.validators - INFO - Successfully loaded data for Kanpur
+2026-03-08 16:00:15,799 - src.etl_pipeline - ERROR - Error in get_or_create_city for Kanpur: near "%": syntax error
+2026-03-08 16:00:15,930 - src.validators - INFO - Successfully loaded data for Nagpur
+2026-03-08 16:00:15,930 - src.etl_pipeline - ERROR - Error in get_or_create_city for Nagpur: near "%": syntax error
+2026-03-08 16:00:16,088 - src.validators - INFO - Successfully loaded data for Indore
+2026-03-08 16:00:16,088 - src.etl_pipeline - ERROR - Error in get_or_create_city for Indore: near "%": syntax error
+2026-03-08 16:00:16,222 - src.validators - INFO - Successfully loaded data for Thane
+2026-03-08 16:00:16,222 - src.etl_pipeline - ERROR - Error in get_or_create_city for Thane: near "%": syntax error
+2026-03-08 16:00:16,223 - src.etl_pipeline - INFO - --- ETL Pipeline Completed Successfully ---
+2026-03-08 16:08:55,604 - __main__ - INFO - System manually stopped by user.
+2026-03-08 16:57:49,365 - src.etl_pipeline - INFO - --- ETL Pipeline Started ---
+2026-03-08 16:57:49,550 - src.validators - INFO - Successfully loaded data for New Delhi
+2026-03-08 16:57:49,550 - src.etl_pipeline - ERROR - Error in get_or_create_city for New Delhi: near "%": syntax error
+2026-03-08 16:57:49,705 - src.validators - INFO - Successfully loaded data for Kolkata
+2026-03-08 16:57:49,705 - src.etl_pipeline - ERROR - Error in get_or_create_city for Kolkata: near "%": syntax error
+2026-03-08 16:57:49,860 - src.validators - INFO - Successfully loaded data for Mumbai
+2026-03-08 16:57:49,862 - src.etl_pipeline - ERROR - Error in get_or_create_city for Mumbai: near "%": syntax error
+2026-03-08 16:57:50,015 - src.validators - INFO - Successfully loaded data for Bengaluru
+2026-03-08 16:57:50,018 - src.etl_pipeline - ERROR - Error in get_or_create_city for Bengaluru: near "%": syntax error
+2026-03-08 16:57:50,171 - src.validators - INFO - Successfully loaded data for Chennai
+2026-03-08 16:57:50,171 - src.etl_pipeline - ERROR - Error in get_or_create_city for Chennai: near "%": syntax error
+2026-03-08 16:57:50,303 - src.validators - INFO - Successfully loaded data for Hyderabad
+2026-03-08 16:57:50,303 - src.etl_pipeline - ERROR - Error in get_or_create_city for Hyderabad: near "%": syntax error
+2026-03-08 16:57:50,467 - src.validators - INFO - Successfully loaded data for Ahmedabad
+2026-03-08 16:57:50,467 - src.etl_pipeline - ERROR - Error in get_or_create_city for Ahmedabad: near "%": syntax error
+2026-03-08 16:57:50,621 - src.validators - INFO - Successfully loaded data for Surat
+2026-03-08 16:57:50,621 - src.etl_pipeline - ERROR - Error in get_or_create_city for Surat: near "%": syntax error
+2026-03-08 16:57:50,790 - src.validators - INFO - Successfully loaded data for Pune
+2026-03-08 16:57:50,790 - src.etl_pipeline - ERROR - Error in get_or_create_city for Pune: near "%": syntax error
+2026-03-08 16:57:50,954 - src.validators - INFO - Successfully loaded data for Jaipur
+2026-03-08 16:57:50,955 - src.etl_pipeline - ERROR - Error in get_or_create_city for Jaipur: near "%": syntax error
+2026-03-08 16:57:51,120 - src.validators - INFO - Successfully loaded data for Lucknow
+2026-03-08 16:57:51,120 - src.etl_pipeline - ERROR - Error in get_or_create_city for Lucknow: near "%": syntax error
+2026-03-08 16:57:51,271 - src.validators - INFO - Successfully loaded data for Kanpur
+2026-03-08 16:57:51,271 - src.etl_pipeline - ERROR - Error in get_or_create_city for Kanpur: near "%": syntax error
+2026-03-08 16:57:51,435 - src.validators - INFO - Successfully loaded data for Nagpur
+2026-03-08 16:57:51,435 - src.etl_pipeline - ERROR - Error in get_or_create_city for Nagpur: near "%": syntax error
+2026-03-08 16:57:51,584 - src.validators - INFO - Successfully loaded data for Indore
+2026-03-08 16:57:51,584 - src.etl_pipeline - ERROR - Error in get_or_create_city for Indore: near "%": syntax error
+2026-03-08 16:57:51,749 - src.validators - INFO - Successfully loaded data for Thane
+2026-03-08 16:57:51,749 - src.etl_pipeline - ERROR - Error in get_or_create_city for Thane: near "%": syntax error
+2026-03-08 16:57:51,749 - src.etl_pipeline - INFO - --- ETL Pipeline Completed Successfully ---
+2026-03-08 17:57:52,489 - src.etl_pipeline - INFO - --- ETL Pipeline Started ---
+2026-03-08 17:57:52,677 - src.validators - INFO - Successfully loaded data for New Delhi
+2026-03-08 17:57:52,681 - src.etl_pipeline - ERROR - Error in get_or_create_city for New Delhi: near "%": syntax error
+2026-03-08 17:57:52,816 - src.validators - INFO - Successfully loaded data for Kolkata
+2026-03-08 17:57:52,816 - src.etl_pipeline - ERROR - Error in get_or_create_city for Kolkata: near "%": syntax error
+2026-03-08 17:57:52,943 - src.validators - INFO - Successfully loaded data for Mumbai
+2026-03-08 17:57:52,944 - src.etl_pipeline - ERROR - Error in get_or_create_city for Mumbai: near "%": syntax error
+2026-03-08 17:57:53,088 - src.validators - INFO - Successfully loaded data for Bengaluru
+2026-03-08 17:57:53,088 - src.etl_pipeline - ERROR - Error in get_or_create_city for Bengaluru: near "%": syntax error
+2026-03-08 17:57:53,250 - src.validators - INFO - Successfully loaded data for Chennai
+2026-03-08 17:57:53,252 - src.etl_pipeline - ERROR - Error in get_or_create_city for Chennai: near "%": syntax error
+2026-03-08 17:57:53,408 - src.validators - INFO - Successfully loaded data for Hyderabad
+2026-03-08 17:57:53,408 - src.etl_pipeline - ERROR - Error in get_or_create_city for Hyderabad: near "%": syntax error
+2026-03-08 17:57:53,567 - src.validators - INFO - Successfully loaded data for Ahmedabad
+2026-03-08 17:57:53,567 - src.etl_pipeline - ERROR - Error in get_or_create_city for Ahmedabad: near "%": syntax error
+2026-03-08 17:57:53,721 - src.validators - INFO - Successfully loaded data for Surat
+2026-03-08 17:57:53,723 - src.etl_pipeline - ERROR - Error in get_or_create_city for Surat: near "%": syntax error
+2026-03-08 17:57:53,885 - src.validators - INFO - Successfully loaded data for Pune
+2026-03-08 17:57:53,885 - src.etl_pipeline - ERROR - Error in get_or_create_city for Pune: near "%": syntax error
+2026-03-08 17:57:54,021 - src.validators - INFO - Successfully loaded data for Jaipur
+2026-03-08 17:57:54,021 - src.etl_pipeline - ERROR - Error in get_or_create_city for Jaipur: near "%": syntax error
+2026-03-08 17:57:54,171 - src.validators - INFO - Successfully loaded data for Lucknow
+2026-03-08 17:57:54,171 - src.etl_pipeline - ERROR - Error in get_or_create_city for Lucknow: near "%": syntax error
+2026-03-08 17:57:54,336 - src.validators - INFO - Successfully loaded data for Kanpur
+2026-03-08 17:57:54,338 - src.etl_pipeline - ERROR - Error in get_or_create_city for Kanpur: near "%": syntax error
+2026-03-08 17:57:54,478 - src.validators - INFO - Successfully loaded data for Nagpur
+2026-03-08 17:57:54,478 - src.etl_pipeline - ERROR - Error in get_or_create_city for Nagpur: near "%": syntax error
+2026-03-08 17:57:54,626 - src.validators - INFO - Successfully loaded data for Indore
+2026-03-08 17:57:54,626 - src.etl_pipeline - ERROR - Error in get_or_create_city for Indore: near "%": syntax error
+2026-03-08 17:57:54,768 - src.validators - INFO - Successfully loaded data for Thane
+2026-03-08 17:57:54,768 - src.etl_pipeline - ERROR - Error in get_or_create_city for Thane: near "%": syntax error
+2026-03-08 17:57:54,773 - src.etl_pipeline - INFO - --- ETL Pipeline Completed Successfully ---
