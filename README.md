@@ -19,7 +19,7 @@ A comprehensive data engineering project that automates the collection of real-t
 4. **Visualization:** Connecting Power BI to the DB and building a Star Schema model.
 
 ## 📁 Project Structure
-```text
+`text
 ├── database/               # Database files and connection scripts
 ├── src/                    # Python scripts for API extraction and ETL
 │   ├── etl_pipeline.py     # Main ETL logic
@@ -39,14 +39,14 @@ Extreme Weather Alerts: Identifying highest and lowest recorded temperatures per
 
 Peak Hour Analysis: Understanding intraday temperature fluctuations.
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 Languages: Python, SQL, DAX
 
 Libraries: Pandas, Requests, Sqlite3, Schedule
 
 Tools: Power BI Desktop, VS Code, Git/GitHub
 
-⚙️ Setup Instructions
+## ⚙️ Setup Instructions
 Clone the repository:
 
 Bash
@@ -57,7 +57,7 @@ Bash
 pip install -r requirements.txt
 Run the ETL script:
 
-Bash
+## Bash
 python src/etl_pipeline.py
 Open the .pbix file in Power BI and refresh the data.
 
