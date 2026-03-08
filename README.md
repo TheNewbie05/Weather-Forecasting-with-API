@@ -19,17 +19,19 @@ A comprehensive data engineering project that automates the collection of real-t
 4. **Visualization:** Connecting Power BI to the DB and building a Star Schema model.
 
 ## 📁 Project Structure
-`text
-├── database/               # Database files and connection scripts
-├── src/                    # Python scripts for API extraction and ETL
-│   ├── etl_pipeline.py     # Main ETL logic
-│   └── mock_generator.py   # 1-Year data simulator
+
+```text
+.
+├── database/               # SQLite/MySQL database and connection logic
 ├── docs/                   # Project documentation and PDF reports
-├── .gitignore              # Files to exclude from Git
-├── README.md               # Project overview
-└── requirements.txt        # Python dependencies
+├── src/                    # Core Python source code
+│   ├── etl_pipeline.py     # Main Extract, Transform, Load logic
+│   └── mock_generator.py   # 1-Year realistic data simulation script
+├── .gitignore              # Files and folders to be ignored by Git
+├── README.md               # Detailed project overview and setup guide
+└── requirements.txt        # List of Python libraries (Pandas, Requests, etc.)
 
-
+```
 ## 📊 Dashboard Insights
 Seasonality Trends: Tracking temperature shifts from Summer to Winter across India.
 
